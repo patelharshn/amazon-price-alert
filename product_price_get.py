@@ -9,7 +9,7 @@ taget_price = int(input("Enter target price : "))
 new_price = 0
 
 email_add = "hp004086@gmail.com"
-psw = "" # App Password
+psw = "YOUR_APP_PASSWORD" # App Password
 
 
 headers = {
